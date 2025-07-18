@@ -8,7 +8,7 @@ Este arquivo organiza as tarefas para o desenvolvimento da API conforme os requi
 
 ## 📦 1. Preparação inicial
 
-- [ ] Ler o `INSTRUCOES.md` do repositório oficial
+- [ ] Ler o `INSTRUCOES.md` do [repositório oficial](https://github.com/zanfranceschi/rinha-de-backend-2025/blob/main/INSTRUCOES.md)
 - [ ] Escolher a stack principal (ex: Ruby on Rails)
 - [ ] Criar o repositório do projeto
 - [ ] Inicializar o projeto com a estrutura base
